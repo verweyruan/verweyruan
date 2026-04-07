@@ -45,4 +45,4 @@ I'm always open to collaborations, code reviews, and conversations about tech, s
 
 ---
 
-*"The journey of a thousand miles begins with a single commit." — Probably someone wise* 🚀
+*"The journey of a impactful project begins with a single commit." — Probably someone wise* 🚀
