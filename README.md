@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I'm Ruan 👋
 
-<!--
-**verweyruan/verweyruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**21** | Full Stack Developer in the Making
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm on a **self-directed full stack learning journey** — no bootcamp, no degree in CS, just pure consistency and a clear goal.
+
+Currently building projects from tutorials, but I never just copy and paste. I always:
+- ✨ Add my own features and improvements
+- 🔧 Swap out tools to deepen my understanding
+- 🐛 Fix what's broken and make it mine
+- 🧠 Learn the **why** behind the code, not just the how
+
+**CS50 grad** | **2nd Year LLB Law Student** | **Aspiring Software Engineer** + **Future Founder** 🚀
+
+---
+
+## My Philosophy on Learning
+
+I use **AI as a Socratic learning partner** — asking it to:
+- 📚 Explain concepts and clarify confusion
+- 🤔 Challenge my thinking and assumptions
+- 💡 Teach me the reasoning behind solutions
+- ❓ Ask me questions to deepen understanding
+
+**Not** to write code for me, but to accelerate my understanding and critical thinking.
+
+---
+
+## What I'm Learning
+
+- **Full Stack Development** (Frontend, Backend, Databases)
+- **Problem Solving** through projects and real-world challenges
+- **Software Engineering Principles** and best practices
+- **Building products** with intention and purpose
+
+---
+
+## Let's Connect
+
+I'm always open to collaborations, code reviews, and conversations about tech, startups, and learning. Feel free to explore my projects below — each one tells a story of growth and experimentation.
+
+---
+
+*"The journey of a thousand miles begins with a single commit." — Probably someone wise* 🚀
