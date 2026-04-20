@@ -18,18 +18,6 @@ Currently building projects from tutorials, but I never just copy and paste. I a
 
 ---
 
-## My Philosophy on Learning
-
-I use **AI as a Socratic learning partner** — asking it to:
-- 📚 Explain concepts and clarify confusion
-- 🤔 Challenge my thinking and assumptions
-- 💡 Teach me the reasoning behind solutions
-- ❓ Ask me questions to deepen understanding
-
-**Not** to write code for me, but to accelerate my understanding and critical thinking.
-
----
-
 ## What I'm Learning
 
 - **Full Stack Development** (Frontend, Backend, Databases)
