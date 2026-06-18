@@ -1,4 +1,4 @@
-# Hey, I'm Ruan 👋
+# Hey, I'm Ruan 
 
 **21** | Full Stack Developer in the Making
 
@@ -9,10 +9,10 @@
 I'm on a **self-directed full stack learning journey** — no bootcamp, no degree in CS, just pure consistency and a clear goal.
 
 Currently building projects from tutorials, but I never just copy and paste. I always:
-- ✨ Add my own features and improvements
-- 🔧 Swap out tools to deepen my understanding
-- 🐛 Fix what's broken and make it mine
-- 🧠 Learn the **why** behind the code, not just the how
+- Add my own features and improvements
+- Swap out tools to deepen my understanding
+- Fix what's broken and make it mine
+- Learn the **why** behind the code, not just the how
 
 **CS50 grad** | **2nd Year LLB Law Student** | **Aspiring Software Engineer** + **Future Founder** 🚀
 
