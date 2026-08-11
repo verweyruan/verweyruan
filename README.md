@@ -31,5 +31,3 @@ Currently building AgriCore (private - repo)
 I'm always open to collaborations, code reviews, and conversations about tech, startups, and learning. Feel free to explore my projects below — each one tells a story of growth and experimentation.
 
 ---
-
-*"The journey of a impactful project begins with a single commit." — Probably someone wise* 🚀
