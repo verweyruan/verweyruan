@@ -9,6 +9,7 @@
 I'm on a **self-directed full stack learning journey**
 
 Currently building AgriCore (private - repo)
+- Multi-Tenancy
 - Total farming operating system
 - Help farmers make data-driven decisions
 - Track all their livestock, crops, employees, finances, all in one place.
