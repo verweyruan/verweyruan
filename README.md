@@ -24,6 +24,7 @@ Currently building AgriCore (private - repo)
 - **Problem Solving** through projects and real-world challenges
 - **Software Engineering Principles** and best practices
 - **Building products** with intention and purpose
+- How to effectively implement Claude Code into workflows to improve my productivity.
 
 ---
 
