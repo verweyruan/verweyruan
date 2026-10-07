@@ -14,7 +14,7 @@ Currently building AgriCore (private - repo)
 - Help farmers make data-driven decisions
 - Track all their livestock, crops, employees, finances, all in one place.
 
-**CS50 grad** | **2nd Year LLB Law Student** | **Founder** 
+**CS50 grad** |**Founder** 
 
 ---
 
