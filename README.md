@@ -1,6 +1,6 @@
 # Hey, I'm Ruan 
 
-**21** | Full Stack Developer in the Making
+**21** | Full Stack Developer 
 
 ---
 
